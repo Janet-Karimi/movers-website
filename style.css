@@ -1,0 +1,156 @@
+
+.centered {
+  background-image: url(download.jpeg);
+  background-position: initial;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 20%;
+}
+.statements {
+    display: flex;
+    gap: 10%;
+
+}
+.logs{
+    display: flex;
+    gap: 20%;
+    margin-bottom: 8px;
+    height: 20%;
+    font-weight: 100%;
+
+}
+.services{
+    text-align: center;
+}
+.button{
+    background-color: yellow;
+  }
+  .position{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(50% 50%);
+  }
+  .centered{
+    background-image: url(image\ 3.jpeg);
+    padding-bottom: 10%;
+    
+  }
+  .fam{
+    background-image: url(shooping.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .BOX{
+    background-color: yellow;
+  
+  }
+  .Christine{
+    display: flex;
+    gap: 10%;
+  
+  }
+  .person1{
+    background-image: url(packing\ 1.jpeg);
+    background-repeat: no-repeat;
+    backface-visibility: visible;
+    height: 500%;
+    width: 100%;
+    
+  }
+  .person2{
+    background-image: url(person2.jpeg);
+    background-repeat: no-repeat;
+    backface-visibility: visible;
+    height: 500%;
+    width: 100%;
+
+  }
+  .person3{
+    background-image: url(person\ 3.jpeg);
+    background-repeat: no-repeat;
+    height: 500%;
+    width: 100%;
+
+  }
+  .abt{
+    color: yellow;
+  }
+  .blee{
+    background-color: blue;
+  }
+  .vide{
+    padding: 2px;
+  }
+  .tube{
+   width: 0%;
+    height: 0%;
+  }
+  .couple{
+    background-image: url(shooping.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 500px;
+    
+  }
+  .box{
+    background-color: yellow;
+    width: 20%
+  }
+  .form{
+    background-color: blue;
+    display: flex;
+    width: 80%;
+    gap: 10px;
+    
+  }
+  .billbord{
+    width: 100%;
+  }
+.book{
+  background-color: orangered;
+  width: 40%;
+}
+.input{
+  border: solid;
+  padding: 6px;
+}
+.state{
+  display: flex;
+  
+}
+.nav{
+  display: flex;
+  gap: 10%;
+}
+.game{
+  display: flex;
+  gap: 20%
+}
+.email{
+    display: flex;
+    text-align: center;
+    margin-left: 20%;
+    gap: 20%;
+}
+.header{
+  display: flex;
+  gap: 70%;
+}
+.mon{
+  background-color: orangered;
+  padding: 4%;
+  display: flex;
+  gap: 20%;
+}
+.details{
+  display: flex;
+  gap: 14%;
+  background-color: black;
+  color: white;
+}
+@media all and (max-width: 500px){
+  
+}
+  
+  
